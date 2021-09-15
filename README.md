@@ -8,11 +8,21 @@ will be more detailed on other projects.
 The connection between the Arduino and the most gsm modules are as follow:
 
 Arduino                                             -------------       GSM module
+
 Digital pin(choose whatever you want) Ex: #3            ----                TX
+
 Digital pin(choose whatever you want) Ex: #2            ----                RX
+
 GND                                                     ----                GND
 
-In my experiences, the ground is necessary but some modules don't need it. You can try and see by yourself.
-An image on the folder presents an example of connection between an arduino nano and an SIM808 module.
 
-Hope this, will help you.
+In my experiences, the ground is necessary but some modules don't need it. You can try and see by yourself.
+
+[Uploading photo_2021-09-15_14-36-45.jpg…]()
+
+An image presents an example of connection between an arduino nano and an SIM808 module.
+
+Hope this, will help you.!
+
+
+
